@@ -9,5 +9,3 @@ Program for automatic control of the game
 https://vk.com/flaiers
 
 https://t.me/flaiers
-
-![Photo](https://i.yapx.ru/LFiAR.jpg)
